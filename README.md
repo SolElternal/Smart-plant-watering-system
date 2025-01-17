@@ -18,6 +18,6 @@ The project is about IOT using the appropriate soil moisture sensor for agricult
  board and the NodeMCU-32S, Node32 Lite, making it usable with the original
  additional board (Shield) and base (Base).
 - Circuit Diagram
-![image](https://github.com/user-attachments/assets/6a2d0d03-3f62-4534-a962-18b0d8244ac9)
+ ![image](https://github.com/user-attachments/assets/6a2d0d03-3f62-4534-a962-18b0d8244ac9)
 - Result
-![image](https://github.com/user-attachments/assets/8b58448b-b0cd-4079-ba8f-08d4db5fd62e)
+ ![image](https://github.com/user-attachments/assets/8b58448b-b0cd-4079-ba8f-08d4db5fd62e)
